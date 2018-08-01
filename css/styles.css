@@ -1,29 +1,27 @@
-.scotty {
-
+.animal {
   border: solid white;
   padding: 2px;
   width: 300px;
   float: left;
+  margin: 100px;
+  }
+
+.scotty {
+
+
 
 }
 
 .cat {
 
-  border: dotted white;
-  padding: 2px;
-  width: 300px;
-  float: left;
+
 
 
 }
 
 .dog {
 
-  border:solid white
-  padding: 2px;
-  margin: 300px;
-  width: 300px;
-  float: left;
+
 
 }
 
