@@ -1,12 +1,27 @@
 .animal {
-  border: solid white;
-  padding: 2px;
+
+  padding: 5px;
   width: 300px;
   float: left;
   margin: 100px;
+  font-size: 20px;
+
   }
 
+.duis {
+    color: red;
+  }
+img {
+  width: 300px
+}
+
+.starfire {
+  font-weight: bold;
+}
+
 .scotty {
+  border: dotted magenta;
+
 
 
 
@@ -14,12 +29,17 @@
 
 .cat {
 
+  border: dotted green;
+
+
+
 
 
 
 }
 
 .dog {
+  border: solid orange;
 
 
 
@@ -32,6 +52,24 @@ body {
 }
 
 
-img {
-  width: 500px;
+
+h1 {
+
+  font-size: 60px;
+
+  text-align: center;
+
+}
+
+h2 {
+  text-align: center;
+  font-style: italic;
+}
+
+
+.links {
+
+  word-spacing: 15px;
+  text-align: center;
+
 }
