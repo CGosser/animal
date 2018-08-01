@@ -1,0 +1,39 @@
+.scotty {
+
+  border: solid white;
+  padding: 2px;
+  width: 300px;
+  float: left;
+
+}
+
+.cat {
+
+  border: dotted white;
+  padding: 2px;
+  width: 300px;
+  float: left;
+
+
+}
+
+.dog {
+
+  border:solid white
+  padding: 2px;
+  margin: 300px;
+  width: 300px;
+  float: left;
+
+}
+
+
+body {
+
+
+}
+
+
+img {
+  width: 500px;
+}
